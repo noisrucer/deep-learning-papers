@@ -10,6 +10,21 @@ If you want to see other materials, check out my blog.
 
 **Dev Blog**: [https://noisrucer.github.io/](https://noisrucer.github.io/)
 
+# Covered papers
+
+- [AlexNet](https://papers.nips.cc/paper/2012/hash/c399862d3b9d6b76c8436e924a68c45b-Abstract.html)
+- [Cascade R-CNN](https://arxiv.org/abs/1712.00726)
+- [CutMix](https://arxiv.org/abs/1905.04899)
+- [EfficientNet](https://arxiv.org/abs/1905.11946)
+- [FPN](https://arxiv.org/abs/1612.03144)
+- [ResNet](https://arxiv.org/abs/1512.03385)
+- [Retinanet](https://arxiv.org/abs/1708.02002)
+- [Swin Transformer](https://arxiv.org/abs/2103.14030)
+- [U-Net](https://arxiv.org/abs/1505.04597)
+- [ViT](https://arxiv.org/abs/2010.11929)
+- [WBF](https://arxiv.org/abs/1910.13302)
+- [YOLOv1](https://arxiv.org/abs/1506.02640)
+
 # Structure
 
 Each paper is assigned to each folder.
