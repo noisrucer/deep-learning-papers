@@ -10,7 +10,7 @@ If you want to see other materials, check out my blog.
 
 **Dev Blog**: [https://noisrucer.github.io/](https://noisrucer.github.io/)
 
-# Covered papers
+# 📃 Covered papers
 
 - [AlexNet](https://papers.nips.cc/paper/2012/hash/c399862d3b9d6b76c8436e924a68c45b-Abstract.html)
 - [Cascade R-CNN](https://arxiv.org/abs/1712.00726)
@@ -25,7 +25,7 @@ If you want to see other materials, check out my blog.
 - [WBF](https://arxiv.org/abs/1910.13302)
 - [YOLOv1](https://arxiv.org/abs/1506.02640)
 
-# Structure
+# 📂 Structure
 
 Each paper is assigned to each folder.
 
