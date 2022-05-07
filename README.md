@@ -6,6 +6,10 @@ This is a repository for **deep learning research papers review and pytorch impl
 
 My goal is to provide **thorough guide as well as intuitive implementation** as I often have hard time searching through the internet for details.
 
+If you want to see other materials, check out my blog.
+
+**Dev Blog**: [https://noisrucer.github.io/](https://noisrucer.github.io/)
+
 # Structure
 
 Each paper is assigned to each folder.
