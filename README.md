@@ -24,6 +24,7 @@ If you want to see other materials, check out my blog.
 - [ViT](https://arxiv.org/abs/2010.11929)
 - [WBF](https://arxiv.org/abs/1910.13302)
 - [YOLOv1](https://arxiv.org/abs/1506.02640)
+- [YOLOv2](https://arxiv.org/abs/1612.08242)
 
 # 📂 Structure
 
