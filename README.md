@@ -25,6 +25,7 @@ If you want to see other materials, check out my blog.
 - [WBF](https://arxiv.org/abs/1910.13302)
 - [YOLOv1](https://arxiv.org/abs/1506.02640)
 - [YOLOv2](https://arxiv.org/abs/1612.08242)
+- [BiSeNet](https://arxiv.org/abs/1808.00897)
 
 # 📂 Structure
 
