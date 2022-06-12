@@ -26,6 +26,8 @@ If you want to see other materials, check out my blog.
 - [YOLOv1](https://arxiv.org/abs/1506.02640)
 - [YOLOv2](https://arxiv.org/abs/1612.08242)
 - [BiSeNet](https://arxiv.org/abs/1808.00897)
+- [HOTR](https://arxiv.org/abs/2104.13682)
+- [BMVOS](https://arxiv.org/abs/2110.01644#:~:text=Semi%2Dsupervised%20video%20object%20segmentation,is%20widely%20used%20in%20VOS.)
 
 # 📂 Structure
 
